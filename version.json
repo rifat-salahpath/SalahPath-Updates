@@ -1,0 +1,11 @@
+
+{
+  "latestVersionCode": 3,
+  "latestVersionName": "1.2.0",
+  "apkDownloadUrl": "https://github.com/rifat-salahpath/SalahPath-Updates/releases/download/v1.2.0/SalahPath-V1.2.0.apk",
+  "releaseNotes": "Added Mosque Directions button, new Amal tab, Coming Soon screen and Amal banner advertisement.",
+  "minimumSupportedVersionCode": 1,
+  "fileSizeBytes": 30177355,
+  "sha256": "dd78f740a8d642911fa7b027f939276eb37f76d48098bb3272f54f399300cef6",
+  "updateEnabled": true
+}
